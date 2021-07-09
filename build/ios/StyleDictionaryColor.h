@@ -3,15 +3,14 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 29 Jun 2021 22:22:32 GMT
+// Generated on Fri, 09 Jul 2021 19:30:01 GMT
 //
 
 #import <UIKit/UIKit.h>
 
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-Red,
-Yellow
+
 };
 
 @interface StyleDictionaryColor : NSObject
